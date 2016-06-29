@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="helix_style">@style/helix_style</item>
+    </style>
+    <style name="helix_style">
+        <item name="r_begin">30dp</item>
+        <item name="r_increase">0.75dp</item>
+        <item name="angle_begin">90</item>
+        <item name="angle_increase_end">3</item>
+    </style>
+</resources>

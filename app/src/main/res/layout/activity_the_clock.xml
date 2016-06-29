@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/line0"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="liaclai.liang.com.timeofclock.TheClock"
+    android:paddingLeft="10px"
+    android:paddingRight="10px"
+    android:orientation="vertical">
+
+    <liaclai.liang.com.timeofclock.Helix
+        android:id="@+id/helix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="helix">
+        <attr name="r_begin" format="dimension" />
+        <attr name="angle_begin" format="integer"/>
+        <attr name="angle_increase_end" format="integer"/>
+        <attr name="r_increase" format="dimension"/>
+    </declare-styleable>
+    <attr name="helix_style" format="reference" />
+</resources>
